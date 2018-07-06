@@ -1,0 +1,11 @@
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\bin\Debug\netcoreapp2.0\MyApiAws.deps.json
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\bin\Debug\netcoreapp2.0\MyApiAws.runtimeconfig.json
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\bin\Debug\netcoreapp2.0\MyApiAws.runtimeconfig.dev.json
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\bin\Debug\netcoreapp2.0\MyApiAws.dll
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\bin\Debug\netcoreapp2.0\MyApiAws.pdb
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\obj\Debug\netcoreapp2.0\MyApiAws.csprojResolveAssemblyReference.cache
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\obj\Debug\netcoreapp2.0\MyApiAws.csproj.CoreCompileInputs.cache
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\obj\Debug\netcoreapp2.0\MyApiAws.AssemblyInfoInputs.cache
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\obj\Debug\netcoreapp2.0\MyApiAws.AssemblyInfo.cs
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\obj\Debug\netcoreapp2.0\MyApiAws.dll
+C:\Users\ugur\source\repos\MyApiAws\MyApiAws\obj\Debug\netcoreapp2.0\MyApiAws.pdb
